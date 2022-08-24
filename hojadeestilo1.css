@@ -1,0 +1,51 @@
+h1{
+	text-align: left;
+	background: #010000;
+background: linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -webkit-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -moz-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+	color: white;
+	box-shadow: 2px 11px 11px 1px black;
+}
+.titulo{
+	padding: 80px;
+	background: #010000;
+background: linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -webkit-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -moz-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+}
+img{
+	float: right;
+	max-height: 21.8%;
+	max-width: 21.8%;
+	border: 7px solid #275682;
+}
+ul{
+	list-style-type: square;
+}
+ol{
+	list-style-type: upper-roman;
+}
+.perfil{
+	background: #010000;
+background: linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -webkit-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -moz-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+	padding: 80px;
+}
+.info{
+	background-color: white;
+	padding: 80px;
+	column-count: 3;
+}
+h2{
+	color: white;
+	background: #010000;
+background: linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -webkit-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+background: -moz-linear-gradient(90deg,#010000 0%, rgba(0,111,255,0.45) 80%);
+box-shadow: 2px 11px 11px 1px black
+}
+*{
+	font-family: 'Oswald', sans-serif;
+}
